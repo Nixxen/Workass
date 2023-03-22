@@ -35,3 +35,12 @@ Several methods can be used to view the historical data.
  - Using `sqlite cli`, by typing in the terminal (make sure you are in the same folder as the database) command `sqlite <DB-NAME>`, that will allow to use SQL to make queries to the database.
  - Use the command python data_report.py or simply run the data_report.py in order to get historical data overview.
  - If you are using Pycharm you have the option of connecting  ot the database, using the in-build Pycharm interface and use it to view, change and query for data. You can find interface in View -> Tool Window -> Database, there select Data Source Properties icon, and as described in the [documentation](https://www.jetbrains.com/help/pycharm/sqlite.html) connect the sqlite database. 
+
+
+## Report
+The final report, `IKT213_Group_project_final.pdf` is a thorough documentation of the project from start to completion, including challenges and solutions. It contain the following sections:
+- Introduction
+- Theoretical Background
+- System Design and Implementation
+- Results and Discussion
+- Conclusion and Future Work
